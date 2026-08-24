@@ -1,0 +1,1 @@
+Esse é um arquivo que será lido ao iniciar meu projeto
